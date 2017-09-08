@@ -1,0 +1,41 @@
+body {
+    background-color:#000000;
+}
+
+h1{
+   color:#7faaef;
+   font-size:55px;
+   text-align:center;
+   
+}
+
+h2 {
+   color:#9b0606;
+   font-size:35px;
+}
+
+p {
+   color:#ffffff;
+   font-size:20px;
+   font-family:Georgia, sans-serif;
+}
+
+
+a:link {
+    color: #f96dc6;
+}
+
+
+a:visited {
+    color: #a391ff;
+}
+
+
+a:hover {
+    color: #c40707;
+}
+
+
+a:active {
+    color: #26ef3d;
+}
